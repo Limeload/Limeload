@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Urbaneyes - building a smart city application<br>🌱 I’m currently learning Ruby on Rails<br>💬 Ask me anything - I'm the know-it-all you never knew you needed!"<br>⚡ Fun fact : I do Tarot readings!" - Let me help you deal with the cards life has dealt you.
+🔭 I’m currently working on Urbaneyes - building a smart city application<br>🌱 I’m currently learning TensorFlow<br>💬 Ask me anything - I'm the know-it-all you never knew you needed!"<br>⚡ Fun fact : I do Tarot readings!" - Let me help you deal with the cards life has dealt you.
 
 
 ## 🌐 Socials:
